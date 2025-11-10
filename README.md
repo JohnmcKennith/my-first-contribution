@@ -91,6 +91,26 @@ It's time to show it off! Let's create a *new* repository on your own profile to
 A huge thank you to everyone who has contributed. This list updates automatically!
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/dharmanan">
+                    <img src="https://avatars.githubusercontent.com/u/128939343?v=4" width="64;" alt="dharmanan"/>
+                    <br />
+                    <sub><b>dharmanan</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/JohnmcKennith">
+                    <img src="https://avatars.githubusercontent.com/u/239127940?v=4" width="64;" alt="JohnmcKennith"/>
+                    <br />
+                    <sub><b>JohnmcKennith</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
 =======
 # 🎉 My First GitHub Contribution! 🎉
