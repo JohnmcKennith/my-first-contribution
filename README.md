@@ -1,15 +1,15 @@
 <<<<<<< HEAD
 # Welcome to My First Contribution!
 
-This project is designed to help you make your very first open-source contribution and earn the **"Open Sourcerer" (🪙)** achievement!
+This project is designed to help you make your first open-source contributions and earn the **"Pull Shark" (�)** achievement!
 
-I will guide you through two simple "Pull Requests" (PRs).
+We will guide you through the **two (2) Pull Requests (PRs)** needed to earn this badge.
 
 ---
 
 ## Task 1: Add Your Name (Your First PR)
 
-Your first task is to add your name to our `contributors` list.
+Your first task is to add your name to our `contributors` list. This is **PR 1 of 2** required for the badge.
 
 **Step-by-step guide:**
 
@@ -40,7 +40,7 @@ Your first task is to add your name to our `contributors` list.
 
 ## Task 2 (Bonus): Add Your Profile (Your Second PR)
 
-After your first PR is merged, you can try a second one! This time, you'll add your GitHub profile link to the `profiles` list. This is a great way to learn how to make multiple contributions to the same project!
+This is your second and final task! After this PR is merged, you will have earned the badge.
 
 **Step-by-step guide:**
 
@@ -58,11 +58,31 @@ After your first PR is merged, you can try a second one! This time, you'll add y
 
 5.  **Click "Propose new file", then "Create pull request"** - Again, just click the green buttons!
 
-6.  **Wait for me to merge this PR too** - Once merged, your GitHub profile will be linked in the project!
+6.  **Wait for me to merge this PR too** - Once this second PR is merged, you will have 2 merged PRs, which will earn you the **"Pull Shark" (🦈)** badge!
 
 👇 **Click This Button for Task 2** 👇
 
 [![Task 2: Add Your Profile](https://img.shields.io/badge/Task%202%20(Bonus)-Add%20Your%20Profile-blue)](https://github.com/dharmanan/my-first-contribution/new/main/profiles?filename=YOUR_USERNAME.md&value=My%20GitHub%20profile:%20https://github.com/YOUR_USERNAME)
+
+---
+
+## 🏆 Final Task: Create Your "Trophy" Repo!
+
+Congratulations on completing both tasks! You should now have (or will soon receive) the **"Pull Shark" (�)** badge on your GitHub profile.
+
+It's time to show it off! Let's create a *new* repository on your own profile to celebrate your achievement.
+
+1.  **Click the Button Below.** This will take you to a page to create a new "trophy" repo on your account, using a template I made.
+
+    👇 **Click to Create Your Trophy Repo** 👇
+    [![Create Trophy Repo](https://img.shields.io/badge/Step%203-Create%20Your%20Trophy%20Repo-purple)](https://github.com/dharmanan/my-badge-template/generate)
+
+2.  **On the new page:**
+    * Give your new repo a name (like `my-first-github-badge`).
+    * Make sure it's **Public**.
+    * Click **"Create repository"**.
+
+3.  **You're done!** You now have a new repo on your account with a pre-filled README. You can now edit it to add your name and a screenshot of your actual badge!
 
 ---
 
@@ -71,26 +91,6 @@ After your first PR is merged, you can try a second one! This time, you'll add y
 A huge thank you to everyone who has contributed. This list updates automatically!
 
 <!-- readme: contributors -start -->
-<table>
-	<tbody>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/dharmanan">
-                    <img src="https://avatars.githubusercontent.com/u/128939343?v=4" width="64;" alt="dharmanan"/>
-                    <br />
-                    <sub><b>dharmanan</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/JohnmcKennith">
-                    <img src="https://avatars.githubusercontent.com/u/239127940?v=4" width="64;" alt="JohnmcKennith"/>
-                    <br />
-                    <sub><b>JohnmcKennith</b></sub>
-                </a>
-            </td>
-		</tr>
-	<tbody>
-</table>
 <!-- readme: contributors -end -->
 =======
 # 🎉 My First GitHub Contribution! 🎉
