@@ -1,14 +1,14 @@
 # Welcome to My First Contribution!
 
-This project is designed to help you make your first open-source contributions and earn the **"Pull Shark" (�)** achievement!
+This project is designed to help you make your first open-source contributions and earn the **"Pull Shark" (🦈)** achievement!
 
-We will guide you through the **two (2) Pull Requests (PRs)** needed to earn this badge.
+I will guide you through the **two Pull Requests (PRs)** needed to earn this badge.
 
 ---
 
 ## Task 1: Add Your Name (Your First PR)
 
-Your first task is to add your name to our `contributors` list. This is **PR 1 of 2** required for the badge.
+Your first task is to add your name to my `contributors` list. This is **PR 1 of 2** required for the badge.
 
 **Step-by-step guide:**
 
@@ -37,7 +37,7 @@ Your first task is to add your name to our `contributors` list. This is **PR 1 o
 
 ---
 
-## Task 2 (Bonus): Add Your Profile (Your Second PR)
+## Task 2: Add Your Profile (Your Second PR)
 
 This is your second and final task! After this PR is merged, you will have earned the badge.
 
@@ -61,7 +61,7 @@ This is your second and final task! After this PR is merged, you will have earne
 
 👇 **Click This Button for Task 2** 👇
 
-[![Task 2: Add Your Profile](https://img.shields.io/badge/Task%202%20(Bonus)-Add%20Your%20Profile-blue)](https://github.com/dharmanan/my-first-contribution/new/main/profiles?filename=YOUR_USERNAME.md&value=My%20GitHub%20profile:%20https://github.com/YOUR_USERNAME)
+[![Task 2: Add Your Profile](https://img.shields.io/badge/Task%202-Add%20Your%20Profile-blue)](https://github.com/dharmanan/my-first-contribution/new/main/profiles?filename=YOUR_USERNAME.md&value=My%20GitHub%20profile:%20https://github.com/YOUR_USERNAME)
 
 ---
 
@@ -86,7 +86,7 @@ It's time to show it off! Let's create a *new* repository on your own profile to
 
 ---
 
-## 🙏 Our Awesome Contributors!
+## 🙏 My Awesome Contributors!
 
 A huge thank you to everyone who has contributed. This list updates automatically!
 
